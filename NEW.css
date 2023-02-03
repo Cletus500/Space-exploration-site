@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    color: #82a5ca;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.com {
+    border-bottom: 4px solid white;
+}
+
+#non {
+    text-shadow: 0px 0px 4px black;
+}
+
+#pic {
+    width: 200px;
+}
+
+#ink {
+    background-image: url("NM.gif");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+.bee {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color: #82a5ca;
+    font-weight: bold;
+}
